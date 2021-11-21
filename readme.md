@@ -155,10 +155,6 @@ $query
 
 Alpha version
 
-## Credits
-- Anton Orlov <anton@proveyourskillz.com>
-- Pavel Dudko <pavel@proveyourskillz.com>
-
 ## License
 
 MIT 
